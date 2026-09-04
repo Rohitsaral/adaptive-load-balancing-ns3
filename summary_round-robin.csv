@@ -1,0 +1,14 @@
+metric,value
+algorithm,round-robin
+num_servers,3
+num_clients,8
+total_requests_sent,3113
+total_responses_received,3111
+packet_loss_pct,0.0642467
+avg_app_rtt_sec,0.0380489
+server0_requests_routed,1038
+server1_requests_routed,1038
+server2_requests_routed,1037
+server0_requests_served,1038
+server1_requests_served,1038
+server2_requests_served,1037

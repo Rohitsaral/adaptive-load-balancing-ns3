@@ -1,0 +1,15 @@
+metric,value
+algorithm,qlearning
+num_servers,3
+num_clients,8
+sim_time_sec,40
+total_requests_sent,3138
+total_responses_received,3137
+packet_loss_pct,0.0318674
+avg_app_rtt_sec,0.0427148
+server0_requests_routed,792
+server1_requests_routed,1947
+server2_requests_routed,398
+server0_requests_served,792
+server1_requests_served,1947
+server2_requests_served,398

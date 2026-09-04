@@ -1,0 +1,15 @@
+metric,value
+algorithm,adaptive
+num_servers,3
+num_clients,8
+sim_time_sec,40
+total_requests_sent,3138
+total_responses_received,3136
+packet_loss_pct,0.0637349
+avg_app_rtt_sec,0.0351941
+server0_requests_routed,1613
+server1_requests_routed,967
+server2_requests_routed,557
+server0_requests_served,1613
+server1_requests_served,967
+server2_requests_served,557

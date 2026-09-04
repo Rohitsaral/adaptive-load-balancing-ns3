@@ -1,0 +1,14 @@
+metric,value
+algorithm,weighted
+num_servers,3
+num_clients,8
+total_requests_sent,3113
+total_responses_received,3108
+packet_loss_pct,0.160617
+avg_app_rtt_sec,0.0363083
+server0_requests_routed,1383
+server1_requests_routed,1038
+server2_requests_routed,692
+server0_requests_served,1383
+server1_requests_served,1038
+server2_requests_served,692
